@@ -8,6 +8,7 @@ To develop a Recurrent Neural Network model for stock price prediction.
 We aim to build a RNN model to predict the stock prices of Google using the dataset provided. The dataset has many features, but we will be predicting the "Open" feauture alone. We will be using a sequence of 60 readings to predict the 61st reading. Note: These parameters can be changed as per requirements.
 
 ## Neural Network Model
+![WhatsApp Image 2023-11-03 at 9 34 32 PM](https://github.com/Thirukaalathessvarar-S/rnn-stock-price-prediction/assets/121166390/bbc2ba51-5d65-479f-ad64-1ff8326568c4)
 
 ### STEP 1:
 Read the csv file and create the Data frame using pandas.
